@@ -45,7 +45,7 @@ Minimum requirements
 
 ``` r
 library(devtools)
-install_bitbucket('sequenza_tools/sequenza')
+install_bitbucket('sequenzatools/sequenza')
 ```  
 
 Installation
