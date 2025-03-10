@@ -41,7 +41,7 @@ Minimum requirements
 -   Software: R
 -   Operating system: Linux, OS X, Windows
 -   R version: 3.5.0
--   **latest version of Sequenza R package** must be installed from **Bitbucket** https://bitbucket.org/sequenza_tools/sequenza   
+-   **latest version of Sequenza R package** must be installed from **Bitbucket** https://bitbucket.org/sequenzatools/sequenza/
 
 ``` r
 library(devtools)
